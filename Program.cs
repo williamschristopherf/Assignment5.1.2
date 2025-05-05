@@ -10,7 +10,7 @@
     return sum;
 }
 
-Console.WriteLine(SumOfDigit(1234));
-Console.WriteLine(SumOfDigit(57394857));
-Console.WriteLine(SumOfDigit(126454));
+Console.WriteLine($"The sum of the digits of the number 1234 is {SumOfDigit(1234)}");
+Console.WriteLine($"The sum of the digits of the number 57394857 is {SumOfDigit(57394857)}");
+Console.WriteLine($"The sum of the digits of the number 126454 is {SumOfDigit(126454)}");
 
